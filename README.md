@@ -1,2 +1,8 @@
-# models_from_scratch
-This is a repository of various Deep learning models I implement from scratch. The repo will contain code and explanations with each model
+# Introduction
+
+This is repository is created for the purpose of furthering my understanding / knowledge of how various Deep Learning models work. The models implemented in this repository will be coded from scratch, buiding on top of PyTorch. The code contained hence is for understanding purposes, and the models contained within may not give similar results in terms of performance to other implementations. 
+
+
+# Models
+
+1. Convolution Neural Networks
